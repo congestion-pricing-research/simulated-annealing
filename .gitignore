@@ -1,0 +1,16 @@
+__pycache__/
+.pytest_cache/
+.venv/
+*.py[cod]
+.ipynb_checkpoints/
+output/
+input/
+*.shp
+*.shx
+*.dbf
+*.prj
+*.gpkg
+*.pkl
+*.parquet
+*.egg-info/
+.DS_Store
